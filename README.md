@@ -10,3 +10,5 @@ python scripts
     read annotations from GATE output - read_annotations_gate
     
     read annotations from eHOST - ehost_annotation_reader_prescription_all_attributesv2; ehost_annotation_reader_prescription_all_attributesv2_drug_anno; ehost_annotation_reader_prescription_all_attributes_adjudicationv2
+    
+    other miscellaneous scripts - txts_to_csv; move_files etc.
