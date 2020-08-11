@@ -1,6 +1,8 @@
 # medications
 Medications application - 2020 - in progress
 
+Link to documentation: https://emckclac-my.sharepoint.com/:w:/g/personal/k1777052_kcl_ac_uk/ES8mtKod5XJMoyieJaggQ00B2Gs_Nir7-klNllERTdwRPQ?e=UERwn4
+
 python scripts
 
     scripts to extract data from CRIS sql and split into batches - getContent_attachments_JC_schizophrenia
