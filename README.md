@@ -13,4 +13,6 @@ python scripts
     
     read annotations from eHOST - ehost_annotation_reader_prescription_all_attributesv2; ehost_annotation_reader_prescription_all_attributesv2_drug_anno; ehost_annotation_reader_prescription_all_attributes_adjudicationv2
     
+    script to convert xml to xlsx/csv - esp. for dm+d files to create medications gazetteer - xml_to_csv.ipynb
+    
     other miscellaneous scripts - txts_to_csv; move_files etc.
