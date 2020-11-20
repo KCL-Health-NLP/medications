@@ -1,7 +1,7 @@
 # medications
 Medications application - 2020 - in progress
 
-Link to documentation: https://emckclac-my.sharepoint.com/:w:/g/personal/k1777052_kcl_ac_uk/ES8mtKod5XJMoyieJaggQ00B2Gs_Nir7-klNllERTdwRPQ?e=UERwn4
+Link to documentation: https://emckclac-my.sharepoint.com/:w:/g/personal/k20110374_kcl_ac_uk/Ec0PWFnXZ11DmKJNjUULSwEBYTqGlxlo7EZHQ4IIVSQUaA?e=Kds5c6
 
 python scripts
 
